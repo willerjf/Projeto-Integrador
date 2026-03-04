@@ -19,8 +19,8 @@ agencia-noticias/
 ├── css/
 │   └── estilo.css
 ├── imagens/
-│   ├── formatura.jpg
-│   ├── feira-ciencias.jpg
-│   └── futebol.jpg
+│   ├── alagamento.jpg
+│   ├── pet.jpg
+│   └── onibus.jpg
 └── README.md
 ```

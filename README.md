@@ -13,21 +13,6 @@ O site está publicado no GitHub Pages e pode ser acessado pelo link:
 
   ## 📂 Estrutura de arquivos
 
-  ```
-  noticias/
-├── index.html
-├── css/
-│   └── estilo.css
-├── imagens/
-│   ├── alagamento.jpg
-│   ├──pet.jpg
-│   └── onibus.jpg
-└── README.md
-```
-
-
-## 📂 Estrutura de arquivos
-
 ```
 agencia-noticias/
 ├── index.html

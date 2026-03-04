@@ -1,4 +1,4 @@
-#Notícias de Juiz de Fora#
+##Notícias de Juiz de Fora##
 
 ## 🚀 Como acessar
 
@@ -14,7 +14,7 @@ O site está publicado no GitHub Pages e pode ser acessado pelo link:
   ## 📂 Estrutura de arquivos
 
   ```
-agencia-noticias/
+noticias/
 ├── index.html
 ├── css/
 │   └── estilo.css
@@ -23,3 +23,4 @@ agencia-noticias/
 │   ├──pet.jpg
 │   └── onibus.jpg
 └── README.md
+```

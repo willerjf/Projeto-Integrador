@@ -24,3 +24,24 @@ O site está publicado no GitHub Pages e pode ser acessado pelo link:
 │   └── onibus.jpg
 └── README.md
 ```
+
+
+## 📂 Estrutura de arquivos
+
+```
+agencia-noticias/
+├── index.html
+├── css/
+│   └── estilo.css
+├── js/
+│   └── script.js
+├── imagens/
+│   ├── formatura.jpg
+│   ├── feira-ciencias.jpg
+│   └── futebol.jpg
+├── noticias/
+│   ├── formatura.html
+│   ├── feira-ciencias.html
+│   └── futebol.html
+└── README.md
+```

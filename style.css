@@ -9,6 +9,7 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+	size: 40px;
 }
 
 main {
@@ -62,7 +63,3 @@ footer {
     margin-top: 20px;
 }
 
-h1 {
-	size: 80px;
-	
-}
